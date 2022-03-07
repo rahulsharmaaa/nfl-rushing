@@ -1,3 +1,13 @@
+### Installation and running this solution
+
+Project is based on [Create React App](https://github.com/facebook/create-react-app)
+[Live Demo](https://nfl-rushing-e9945.web.app/)
+
+Installation steps:
+
+- npm install
+- npm start
+
 # theScore "the Rush" Interview Challenge
 
 At theScore, we are always looking for intelligent, resourceful, full-stack developers to join our growing team. To help us evaluate new talent, we have created this take-home interview question. This question should take you no more than a few hours.
@@ -59,11 +69,3 @@ We will evaluate you on your ability to solve the problem defined in the require
 ### Help
 
 If you have any questions regarding requirements, do not hesitate to email your contact at theScore for clarification.
-
-### Installation and running this solution
-
-Project is based on [Create React App](https://github.com/facebook/create-react-app)
-Installation steps:
-
-- npm install
-- npm start
